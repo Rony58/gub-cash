@@ -1,2 +1,2 @@
 # gub-cash
-This is my versuty small project. This project you can instant payment send in your versity.
+This is my versity small project. You can instant payment send in your versity.
